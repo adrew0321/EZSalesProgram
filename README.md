@@ -20,5 +20,5 @@ The possibilities of assumptions to the consumer can be consuming; the rabbit ho
 	- how do we calucalte multiple items of the same price while taking in account for sale taxes and included imported sale taxs?
   	- what are payment options?
 
-Overall the project was fun to create and develop. I was able tto discover new and crafty fixes and was consistenly challenged!
+Overall the project was fun to create and develop. I was able to discover new ways to overcome obstacles, alongside of being able to think outside the box! The grand scheme of things forces me to look at this experince as an opportunity to grow as a developer while still being Fun!
 
