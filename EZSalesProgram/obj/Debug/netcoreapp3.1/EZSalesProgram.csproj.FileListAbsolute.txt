@@ -1,0 +1,11 @@
+C:\Users\adrew\source\repos\EZSalesProgram\EZSalesProgram\bin\Debug\netcoreapp3.1\EZSalesProgram.exe
+C:\Users\adrew\source\repos\EZSalesProgram\EZSalesProgram\bin\Debug\netcoreapp3.1\EZSalesProgram.deps.json
+C:\Users\adrew\source\repos\EZSalesProgram\EZSalesProgram\bin\Debug\netcoreapp3.1\EZSalesProgram.runtimeconfig.json
+C:\Users\adrew\source\repos\EZSalesProgram\EZSalesProgram\bin\Debug\netcoreapp3.1\EZSalesProgram.runtimeconfig.dev.json
+C:\Users\adrew\source\repos\EZSalesProgram\EZSalesProgram\bin\Debug\netcoreapp3.1\EZSalesProgram.dll
+C:\Users\adrew\source\repos\EZSalesProgram\EZSalesProgram\bin\Debug\netcoreapp3.1\EZSalesProgram.pdb
+C:\Users\adrew\source\repos\EZSalesProgram\EZSalesProgram\obj\Debug\netcoreapp3.1\EZSalesProgram.csprojAssemblyReference.cache
+C:\Users\adrew\source\repos\EZSalesProgram\EZSalesProgram\obj\Debug\netcoreapp3.1\EZSalesProgram.AssemblyInfoInputs.cache
+C:\Users\adrew\source\repos\EZSalesProgram\EZSalesProgram\obj\Debug\netcoreapp3.1\EZSalesProgram.AssemblyInfo.cs
+C:\Users\adrew\source\repos\EZSalesProgram\EZSalesProgram\obj\Debug\netcoreapp3.1\EZSalesProgram.dll
+C:\Users\adrew\source\repos\EZSalesProgram\EZSalesProgram\obj\Debug\netcoreapp3.1\EZSalesProgram.pdb

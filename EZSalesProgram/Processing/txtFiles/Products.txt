@@ -1,0 +1,10 @@
+﻿The Art of War,Book,Book,12.49,12
+The Slight Edge,Book,Book,12.49,5
+The Course of the Inevitable,Electronics,Music CD,14.99,3
+Nestle Crunch,Food,Chocolate Bar,0.85,45
+The Sweetest Thing,Food,Imported box of chocolates,10.00,28
+YSL,Fragrance,Imported bottle of perfume,47.50,3
+Giorgio Armani,Fragrance,Imported bottle of perfume,27.99,1
+Gucci,Fragrance,Bottle of perfume,18.99,7
+Advil,Medical,Packet of headache pills,9.75,20
+Silked De Italy,Food,Imported box of chocolates,11.25,52
